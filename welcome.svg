@@ -6,10 +6,8 @@
       <div class='body'>
         <div class='container'>
           <a href="https://my.spline.design/hellodistortingintro-d957a5dc2035266daed35dba60c8d3c1/" target="_blank">
-            <h1>
-              <span><em>Interactive 3D</em></span>
-              <span><em>Click Here</em></span>
-            </h1>
+            <script type="module" src="https://unpkg.com/@splinetool/viewer@1.0.76/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/bjuWsUkgcQkXEBPa/scene.splinecode"></spline-viewer>
           </a>
         </div>
       </div>
